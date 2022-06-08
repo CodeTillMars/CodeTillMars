@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CodeTillMars
-- 👀 I’m interested in ...Cloud compute 
+- 👋 Hi, I’m Akash
+- 👀 I’m interested in Cloud compute, Automation and Penetration testing 
 - 🌱 I’m currently learning ...Azure 303/304
 - 💞️ I’m looking to collaborate on ...Create IAAS,PAAS AND SAAS architectutre solutions
 - 📫 How to reach me ...catchakashonmail@gmail.com
